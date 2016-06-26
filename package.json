@@ -1,0 +1,25 @@
+{
+  "name": "jdliss.github.io",
+  "version": "1.0.0",
+  "description": "github page",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdliss/jdliss.github.io.git"
+  },
+  "author": "jon liss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdliss/jdliss.github.io/issues"
+  },
+  "homepage": "https://github.com/jdliss/jdliss.github.io#readme",
+  "devDependencies": {
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
